@@ -5902,7 +5902,9 @@ button.close {
   width: auto;
   margin: 10px;
 }
-
+.modal-content {
+  
+}
 .modal-backdrop {
   position: fixed;
   top: 0;
